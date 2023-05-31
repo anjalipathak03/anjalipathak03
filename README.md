@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello Everyone👋
 
+🌱 I’m currently learning ...
+- New Languages
+- new skills
+- Backend
 
 
 ## `Github-Stats`
