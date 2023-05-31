@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=03anjali)](https://github.com/03anjali)
-
-[![Anjali’s github stats](https://github-readme-stats.vercel.PAT_1.app/api?username=03anjali)](https://github.com/03anjali)
+[
 
 <!--
 **03anjali/03anjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
