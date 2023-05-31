@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+
+
+## `Github-Stats`
+
 [![Anjali’s github stats](https://github-readme-stats.vercel.app/api?username=anjalipathak03)](https://github.com/anjalipathak03)
 
+
+## `Top Languages`
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipathak03)](https://github.com/anjalipathak03/github-readme-stats)
 
 <!--
