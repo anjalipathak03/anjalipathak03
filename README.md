@@ -16,7 +16,6 @@
 
 😊Pronouns - She/Her
 
-
 ## `Github-Stats`
 
 [![Anjali’s github stats](https://github-readme-stats.vercel.app/api?username=anjalipathak03)](https://github.com/anjalipathak03)
