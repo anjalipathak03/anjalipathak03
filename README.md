@@ -2,8 +2,19 @@
 
 🌱 I’m currently learning ...
 - New Languages
-- new skills
 - Backend
+
+🔭 I’m currently working on 
+
+- developing my skills
+- Contribution on Github
+
+👯 I’m looking to collaborate on 
+- Web Development Projects
+- Back-end
+- C++/Pyhton Projects
+
+😊Pronouns - She/Her
 
 
 ## `Github-Stats`
