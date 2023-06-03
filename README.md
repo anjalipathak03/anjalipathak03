@@ -12,7 +12,7 @@
 👯 I’m looking to collaborate on 
 - Web Development Projects
 - Back-end
-- C++/Pyhton Projects
+- C++/Pyhton Projects 
 
 😊Pronouns - She/Her
 
