@@ -11,6 +11,7 @@
 
 👯 I’m looking to collaborate on 
 - Web Development Projects
+- AI/ML learning projects
 - Back-end
 - C++/Pyhton Projects 
 
