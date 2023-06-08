@@ -15,7 +15,6 @@
 - Back-end
 - C++/Pyhton Projects 
 
-😊Pronouns - She/Her
 
 ## `Github-Stats`
 
