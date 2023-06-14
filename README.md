@@ -1,5 +1,9 @@
 ### Hello Everyone👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="300"/>
+</div>
+
 🌱 I’m currently learning ...
 - New Languages
 - Backend
