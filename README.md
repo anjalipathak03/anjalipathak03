@@ -1,8 +1,10 @@
+ # Hello Everyone 🙏
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="300"/>
 </div>
 
-                                            ## `Hello Everyone`                        
+                                                                 
 
 🌱 I’m currently learning ...
 - New Languages
@@ -17,7 +19,7 @@
 - Web Development Projects
 - AI/ML learning projects
 - Back-end
-- C++/Pyhton Projects 
+- C++/Python Projects 
 
 
 ## `Github-Stats`
