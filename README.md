@@ -15,7 +15,7 @@
 - developing my skills
 - Contribution on Github
 
-👯 I’m looking to collaborate on 
+👯 I’m looking to collaborate on    
 - Web Development Projects
 - AI/ML learning projects
 - Back-end
