@@ -33,7 +33,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anjalipathak03&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-
+<!--
 <div>
 
 ### Commits:
@@ -41,7 +41,12 @@
   ![Snake animation](https://github.com/anjalipathak03/anjalipathak03/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+<div>
 
+### Commits:
+  
+  ![Snake animation](https://github.com/rpdana/rpdana/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 
