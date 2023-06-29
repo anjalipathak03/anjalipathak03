@@ -33,6 +33,32 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anjalipathak03&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+
+<div>
+
+### Commits:
+  
+  ![Snake animation](https://github.com/anjalipathak03/anjalipathak03/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **03anjali/03anjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
