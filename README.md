@@ -1,4 +1,4 @@
- # Hello Everyone 🙏
+ # Hello Everyone 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="300"/>
@@ -13,7 +13,7 @@
 🔭 I’m currently working on 
 
 - developing my skills
-- Contribution on Github
+- Java
                                       
 👯 I’m looking to collaborate on    
 - Web Development Projects
